@@ -1,0 +1,7 @@
+{
+  "name": "Double Click Event Issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
